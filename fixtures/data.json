@@ -1,0 +1,21 @@
+{
+  "detailedform" :{
+    "name": "Agus",
+    "email": "agus@testing.io",
+    "phone": " 08123456",
+    "city" : "Jakarta",
+    "address" : "jl.pahlawan kita",
+    "postalCode" : "292929"
+  },
+
+  "unDetailedform" :{
+    "name": "Agus",
+    "email": "",
+    "phone": " 08123456",
+    "city" : "Jakarta",
+    "address" : "jl.pahlawan kita",
+    "postalCode" : "292929"
+  }
+
+
+}
